@@ -1,6 +1,6 @@
 # Calculator
 
-### View this web page at : https://aks-calculator.netlify.app/
+### View this web page at : https://shubham241297.github.io/Calculator/
 
 ### Features
 
